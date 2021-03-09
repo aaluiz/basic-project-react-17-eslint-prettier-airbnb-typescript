@@ -7,7 +7,7 @@ interface IText {
 
 const todos: IText[] = [];
 
-const initialState = {
+export const initialState = {
   todos,
 };
 
