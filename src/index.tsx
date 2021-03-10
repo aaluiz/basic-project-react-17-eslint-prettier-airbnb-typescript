@@ -2,7 +2,6 @@ import { StrictMode } from 'react';
 import { render } from 'react-dom';
 import { Provider } from 'react-redux';
 
-import './index.scss';
 import { persistStore } from 'redux-persist';
 import { PersistGate } from 'redux-persist/integration/react';
 
